@@ -1,0 +1,11 @@
+{
+    "main": "index.js",
+    "dependencies": {
+        "aws-sdk": "^2.1372.0",
+        "uuid": "^9.0.0"
+    },
+    "scripts": {
+        "dev": "https://2njtczkpee.execute-api.us-east-1.amazonaws.com/",
+        "prod": "serverless deploy --verbose"
+    }
+}
