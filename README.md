@@ -18,6 +18,11 @@
 ```bash
   cd ./crud_aws_lambda
 ```
+3- Configurar las credenciales con AWS CLI
+
+```bash
+  aws configure
+```
 
 3- Para subir los cambios a la nube
 
